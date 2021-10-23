@@ -26,4 +26,5 @@ caranya:
 
 download sekarang juga!
 
-lisensi ini menggunakan GNU General public License terima kasih!
+lisensi ini menggunakan GNU General public License 
+terima kasih!
